@@ -12,7 +12,7 @@ This blog post was created as part of the freeCodeCamp challenge for certificati
 I created this post as part of my freeCodeCamp certification, but it also comes from my personal faith in Jesus Christ. His life and teachings have been a source of guidance, love, and strength for me, and I wanted to share that with others. This post reflects my journey of learning and understanding more deeply about the legacy of Jesus Christ and how it continues to inspire millions of people around the world.
 
 ## How to Access the Post
-- Navigate to the **"blog_post"** folder in this repository to read the full content.
+- Navigate in this repository to read the full content.
 
 ## Contributing
 If you have any feedback, insights, or would like to share your own thoughts on the post, feel free to open an issue or submit a pull request. Contributions are welcome!
